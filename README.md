@@ -5,9 +5,9 @@ ROS (Robot operating system) is an open source framework for getting robots to d
 
 ### Prerequisites  
 1. You will need a linux based OS (Ubuntu or Mac OS).  
-2. ROS installation
+2. [ROS installation](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
-To get started you will have to fork this repository, and then create a clone of your fork. This is where you will push all of your code.  
+To get started you will have to **fork** this repository. Then create a clone of your fork, this is where you will push all of your code.  
 
 ## Tasks
 Tasks are arranged in a weekly manner (like a MOOC)  
@@ -16,7 +16,7 @@ Tasks are arranged in a weekly manner (like a MOOC)
 1. Install your OS (Ubuntu 20.04 is preferred).  
 2. Install git to submit your work.  
 3. Install ROS (Noetic should suffice).  
-    Verify your installation by running the command `roscore`  
+    Verify your installation by running the command `roscd`  
 
 **Task 1:**  
 1. Create a catkin workspace. Go through all sub-directories and understand their significance.  
@@ -35,4 +35,3 @@ Tasks are arranged in a weekly manner (like a MOOC)
 
 ## Resources  
 1. Official [ROS](http://wiki.ros.org/ROS/Tutorials) tutorials.  
-2. 
