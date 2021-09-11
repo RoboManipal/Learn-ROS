@@ -38,8 +38,8 @@ Tasks on this repository are arranged in a weekly manner, similar to any online 
 3. Write a script to draw a hexagon using the turtle bot.  
 
 **Task 4:**  
-1. Use ROS to send data from an ultrasonic sensor (connected to an arduino) using the Publsiher-Subscriber model.  
-   *Note* : If you don't have this sensor you can use any other sensor as well. You can also expand this exercise to other electronic modules and sensors.  
+1. Learn about [rosserial](http://wiki.ros.org/rosserial). Go through the tutorials and implement the example code, then use it to send data from an ultrasonic sensor.  
+*Note* : If you don't have this sensor you can use any other sensor as well. You can also expand this exercise to other electronic modules and sensors.  
 
 **Task 5:**  
 1. Understand the client server model and how it works in ROS.  
