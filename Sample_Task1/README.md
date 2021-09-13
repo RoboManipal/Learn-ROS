@@ -1,6 +1,5 @@
 ## Sample Submission
 This is a sample submission for [Task 1](https://github.com/RoboManipal/Learn-ROS#Task1).  
-
 You can find the ROS package [here](beginner_tutorials)
 * Creating a catkin workspace  
 ```
@@ -33,4 +32,5 @@ You can find the ROS package [here](beginner_tutorials)
 <img src="Data/turtleTeleop.png">
 
 **Talker-Listener example**  
+
 <img src="Data/talkerList.png">
