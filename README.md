@@ -8,10 +8,13 @@ ROS (Robot operating system) is an open source framework for getting robots to d
 2. ROS [installation](http://wiki.ros.org/noetic/Installation/Ubuntu)
 
 ### Submitting your work
-* To submit your work, you will have to **fork** this repository. After that you can create a clone of your fork.   
-   This is where you will push all of your work. Follow [this](https://gist.github.com/CristinaSolana/1885435) to add the remote from the original repository to       your fork. This way you can update your fork with all the new tasks that would be added in the future.  
+* To submit your work, you will have to **fork** this repository. After that you can create a clone of your fork. This is where you will push all of your work.  
+You will have to update your **fork** from time to time. You can do this from the terminal or the github website.  
+   * Follow [this](https://gist.github.com/CristinaSolana/1885435) to add the remote from the original repo using the terminal.  
+   * Updating fork using the github website.  
+   ![](updateFork.gif)
 
-* For each task submission, you should add the ROS package that you created. This should include all the scripts/codes that you have used. Also include a README with relevent screenshots to validate your work.  
+* For each task submission, you should add the ROS package that you created. This should include all the scripts/codes that you have used. Also include a README with relevent screenshots to validate your work. Checkout the Sample Submission [here](Sample_Submission/README.md)  
 
 ## Tasks
 Tasks on this repository are arranged in a weekly manner, similar to any online course or MOOC that you may have taken.(Coursera,Udemy,edX)  
