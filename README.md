@@ -49,7 +49,8 @@ Tasks on this repository are arranged in a weekly manner, similar to any online 
 2. Write a client server node (in C++ and python). Edit the basic code to send different data.  
 
 ## Resources  
-1. Official [ROS](http://wiki.ros.org/ROS/Tutorials) tutorials.  
+1. Official ROS [documentation](http://wiki.ros.org/)
+2. Official [ROS](http://wiki.ros.org/ROS/Tutorials) tutorials.  
 
 ## Tutorials  
 1. What is [ROS](https://www.youtube.com/watch?v=8QfI5a7lTKU)  
