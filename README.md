@@ -37,8 +37,10 @@ Tasks on this repository are arranged in a weekly manner, similar to any online 
 
 ### Task 3:  
 1. Create a ROS node to control the turtlesim bot. (Move,Rotate,Go to goal)  
-2. Write a script to draw the letter 'D' using the turtle bot.  
-3. Write a script to draw a hexagon using the turtle bot.  
+2. Write a script to draw a circle using the turtle bot.
+3. Write a script to draw the letter 'D' using the turtle bot. 
+4. Write a script to implement a service client to draw a polygon of side requested by the client.
+
 
 ### Task 4:  
 1. Learn about [rosserial](http://wiki.ros.org/rosserial). Go through the tutorials and implement the example code, then use it to send data from an ultrasonic sensor.  
